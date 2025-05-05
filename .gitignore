@@ -1,0 +1,11 @@
+# directories
+data/
+models/
+__pycache__/
+.venv/
+
+
+# files
+*.pyc
+*.ipynb_checkpoints
+.env

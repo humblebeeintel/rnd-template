@@ -1,0 +1,10 @@
+project_root: "."
+data:
+  root: "data"
+  raw: "data/raw"
+  preprocessed: "data/preprocessed"
+  logs: "data/logs"
+  training: "data/training"
+models: "models"
+experiments: "experiments"
+results: "results"
