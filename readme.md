@@ -96,25 +96,15 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 ```
 
-### Start a New Experiment
-
-1. Create config file: `cp configs/exp1.yaml configs/your_experiment.yaml`
-2. Create notebook: `cp experiments/notebooks/common.ipynb experiments/notebooks/your_experiment.ipynb`
-3. Start experimenting!
-
 ## 🔍 Need Help?
 
 - Check `docs/` for detailed documentation
-- Example notebooks are in `experiments/notebooks/examples/`
+- Example notebooks are in `experiments/notebooks`
 - Common modules are in `modules/` directory
 
 ## 📝 Next Steps
 
-- Add your data to `data/raw/`
+- Add your data to `data/`
 - Create preprocessing scripts in `scripts/`
 - Build your model or move pre-trained models to `models/` 
 - Track experiments with logging
-
-## 📄 License
-
-[MIT License](LICENSE)
