@@ -1,6 +1,6 @@
-# Computer Vision R&D Template
+# R&D Template
 
-This is a base template for computer vision projects focused on Research and Development of the projects.
+This is a base template focused on Research and Development of the projects.
 
 ## ✨ Features
 
